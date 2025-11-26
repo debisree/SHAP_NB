@@ -23,7 +23,4 @@ This repository contains a hands-on lab for **SHAP (SHapley Additive exPlanation
 
 ## Running the Notebook in Colab
 
-1. Open the notebook in Colab using the badge below (update the URL to match this repository):
-
-   ```markdown
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USER>/<REPO>/blob/main/Boston_SHAP_Lab_Colab.ipynb)
+1. Open the notebook in Colab:
